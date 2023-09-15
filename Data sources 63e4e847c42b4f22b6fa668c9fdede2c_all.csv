@@ -1,0 +1,17 @@
+﻿Name,Link,Sector,Type,Access type,Description,Rating,Additional comments
+Centre for data health (Centrum för hälsodata),https://www.regionstockholm.se/om-regionstockholm/forskning-och-innovation/centrum-for-halsodata/,Health,,Closed,,,
+RUT metadata catalog,"https://rut.registerforskning.se/metadatakatalog/register/
+
+RUT Metada search Tool:
+https://rut.registerforskning.se/logga-in/",Health,"Data, Metadata",,"The metadata tool RUT provides a structured overview of what data is available in Swedish registers and biobank sample collections. In RUT, the contents of the registers are described with metadata in a standardized and detailed manner. This allows you to perform advanced searches and compare different variables from several perspectives.",,
+https://sdb.socialstyrelsen.se/if_lak/val.aspxhttps://sdb.socialstyrelsen.se/if_lak/val.aspx,https://sdb.socialstyrelsen.se/if_lak/val.aspx,Health,Statistics,Open,,,
+https://snd.gu.se/en/catalogue/search?subject=Medical+and+Health+Sciences,https://snd.gu.se/en/catalogue/search?subject=Medical+and+Health+Sciences,Health,Data,,"Swedish National Data Service collaborates with almost 40 higher education institutions and public research institutes to provide researchers with a coordinated and quality-assured system for finding, describing, and sharing research data, nationally as well as internationally.",,
+The office for National Quality Registers (Kvalitetsregister),"http://www.kvalitetsregister.se/
+
+Search national quality registers:  https://www.kvalitetsregister.se/kvalitetsregister/hittaregister.54631.html",Health,Registers,Open,The office for National Quality Registers provides support to National quality registers and have contact information to all registers and to the Regional competence centres. The office also provides support for cooperation with industry. Here it is possible to search all national quality registers. On each register page there is information about the register and a link to the register's website,,
+VAL database,https://www.folkhalsokollen.se/datakallor/val-databaserna/,Health,,,,,
+https://snd.gu.se/en/catalogue,https://snd.gu.se/en/catalogue,General,Data,,,,
+Sveriges dataportal (DIGG),https://www.dataportal.se/en,General,Data,,,,
+OECD data (Sweden),https://data.oecd.org/sweden.htm,General,"Data, Statistics",,,,
+World data bank (Sweden),https://data.worldbank.org/country/SE,General,"Data, Statistics",,,,
+https://skr.se/skr/tjanster/oppnadatapsi.psidata.html,https://skr.se/skr/tjanster/oppnadatapsi.psidata.html,General,,,,,
